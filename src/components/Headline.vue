@@ -38,7 +38,7 @@
   align-items: center;
   justify-content: center;
   text-align: justify;
-  font-size: larger;
+  font-size: x-large;
 }
 
 .headline-text {

@@ -4,6 +4,7 @@
       <img src="../assets/foto1.jpg" alt="" class="history-picture">
     </div>
     <div class="history-text-container">
+      <h1 class="fs-1">História</h1>
       <p class="p-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer leo ligula, vulputate nec eleifend ut, viverra ut dui. Maecenas vestibulum blandit viverra. Integer vehicula mauris urna, rutrum aliquam purus rhoncus eu. Donec faucibus ipsum ac faucibus varius. Donec eget iaculis ipsum, vitae fringilla augue.</p>
     </div>
   </div>
@@ -13,14 +14,16 @@
 .history-container {
   display: flex;
   flex-wrap: wrap;
+  margin: 0;
+  max-height: 24rem;
 }
 
 .history-picture-container {
   flex: 1;
   display: flex;
-  max-height: 18rem;
   position: relative; 
   overflow: hidden;
+  max-height: 24rem;
 }
 
 .history-text-container {
@@ -44,12 +47,14 @@
   .history-container {
     flex-direction: column;
     text-align: center;
+    max-height: fit-content;
   }
 
   .history-picture-container {
     height: auto; 
     position: relative;
-    overflow: hidden; 
+    overflow: hidden;
+    max-height: 20rem;
   }
 }
 </style>

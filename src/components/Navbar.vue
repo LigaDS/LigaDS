@@ -11,16 +11,19 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="#"> História</a>
+            <a class="nav-link" href="#História"> História</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Áreas</a>
+            <a class="nav-link" href="#Áreas">Áreas</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Projetos</a>
+            <a class="nav-link" href="#Membros">Membros</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contato</a>
+            <a class="nav-link" href="#Projetos">Projetos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#Contato">Contato</a>
           </li>
         </ul>
       </div>
