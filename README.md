@@ -1,2 +1,3 @@
-# ligads
-Portfolio Website for UNICAMP's Data Science League
+# UNICAMP's Data Science League Portfolio Website
+
+It's basically a landing page.
