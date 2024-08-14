@@ -5,7 +5,7 @@
       <div class="col">
         <div class="card">
            <div class="card-body">
-             <h5 class="card-title">📢 Marketing</h5>
+             <h5 class="card-title fs-4">📢 Marketing</h5>
              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
         </div>
@@ -13,7 +13,7 @@
       <div class="col">
         <div class="card">
            <div class="card-body">
-             <h5 class="card-title">🛠️ Projetos</h5>
+             <h5 class="card-title fs-4">🛠️ Projetos</h5>
              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
         </div>
@@ -21,7 +21,7 @@
       <div class="col">
         <div class="card">
            <div class="card-body">
-             <h5 class="card-title">📚 Training</h5>
+             <h5 class="card-title fs-4">📚 Training</h5>
              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
         </div>
@@ -29,7 +29,7 @@
       <div class="col">
         <div class="card">
            <div class="card-body">
-             <h5 class="card-title">🤝 Recursos Humanos</h5>
+             <h5 class="card-title fs-4">🤝 Recursos Humanos</h5>
              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
         </div>
