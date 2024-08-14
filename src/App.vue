@@ -4,6 +4,7 @@
   import History from './components/History.vue'
   import Sectors from './components/Sectors.vue';
   import Projects from './components/Projects.vue';
+  import Contact from './components/Contact.vue';
 </script>
 
 <template>
@@ -17,4 +18,8 @@
     <Sectors/>
     <Projects/>
   </main>
+
+<footer>
+  <Contact/>
+</footer>
 </template>

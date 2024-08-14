@@ -24,7 +24,7 @@
   flex: 0 1 auto;
   display: flex;
   justify-content: center;
-  padding-bottom: 2vh;
+  padding-bottom: 6vh;
 }
 
 .headline-logo {
@@ -39,6 +39,7 @@
   justify-content: center;
   text-align: justify;
   font-size: x-large;
+  color: #eeeeee;
 }
 
 .headline-text {
@@ -57,6 +58,7 @@
 
   .headline-logo-container {
     margin-top: 2vh;
+    padding-bottom: 4vh;
   }
 
   .headline-text-container {

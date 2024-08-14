@@ -3,7 +3,7 @@
   <nav class="navbar navbar-expand-md" data-bs-theme="light">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">
-        <Logo color="#00a3cc" size="3em" strokeWidth="4"/>
+        <Logo class="navbar-logo" color="#00a4aa" size="3em" strokeWidth="4"/>
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -11,16 +11,13 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="#História"> História</a>
+            <a class="nav-link" href="#História">História</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#Áreas">Áreas</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#Projetos">Projetos</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#Membros">Membros</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#Contato">Contato</a>

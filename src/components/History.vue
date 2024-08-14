@@ -1,5 +1,5 @@
 <template>
-  <div class="d-flex flex-wrap history-container">
+  <div id="História"class="d-flex flex-wrap history-container">
     <div class="history-picture-container">
       <img src="../assets/foto1.jpg" alt="" class="history-picture">
     </div>
