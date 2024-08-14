@@ -42,7 +42,7 @@
 <style scoped>
 .sectors-container {
   background: rgb(34,34,34);
-  background: linear-gradient(0deg, rgba(34,34,34,1) 0%, rgba(68,68,68,1) 100%);
+background: linear-gradient(0deg, rgba(34,34,34,1) 0%, rgba(17,17,17,1) 50%, rgba(34,34,34,1) 100%);
   padding: 8vh 4vw;
 }
 

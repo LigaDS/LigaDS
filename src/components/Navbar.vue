@@ -17,10 +17,10 @@
             <a class="nav-link" href="#Áreas">Áreas</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#Membros">Membros</a>
+            <a class="nav-link" href="#Projetos">Projetos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#Projetos">Projetos</a>
+            <a class="nav-link" href="#Membros">Membros</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#Contato">Contato</a>
