@@ -30,7 +30,6 @@
 
 <style scoped>
   .navbar {
-    font-family: 'Josefin Sans';
     background-color: #ffd700;
     font-size: x-large;
   }

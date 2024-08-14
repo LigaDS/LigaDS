@@ -1,5 +1,5 @@
 <template>
-  <div class="d-flex flex-wrap align-content-center justify-content-center headline-body">
+  <div class="d-lg-flex flex-wrap align-content-center justify-content-center headline-body">
     <div class="headline-logo-container">
       <img src="../assets/todos.svg" class="headline-logo">
     </div>
@@ -13,7 +13,8 @@
 .headline-body {
   background: rgb(0,211,204);
   background: linear-gradient(0deg, rgba(0,211,204,1) 0%, rgba(0,163,204,1) 100%);
-  height: 20em;
+  height: auto;
+  padding: 6vh 4vw 6vh 4vw;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
@@ -23,6 +24,7 @@
   flex: 0 1 auto;
   display: flex;
   justify-content: center;
+  padding-bottom: 2vh;
 }
 
 .headline-logo {
@@ -36,7 +38,6 @@
   align-items: center;
   justify-content: center;
   text-align: justify;
-  font-family: 'Josefin Sans';
   font-size: larger;
 }
 
@@ -51,10 +52,11 @@
     flex-direction: column;
     height: auto;
     text-align: center;
+    padding: 6vh 0 2vh 0;
   }
 
   .headline-logo-container {
-    margin-top: 2em;
+    margin-top: 2vh;
   }
 
   .headline-text-container {
