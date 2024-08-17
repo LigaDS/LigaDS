@@ -6,7 +6,7 @@
         <div class="card">
            <div class="card-body">
              <h5 class="card-title fs-4">📢 Marketing</h5>
-             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+             <p class="card-text">Disseminar a Liga e o estudo de ciência de dados para o público externo. 📣💬</p>
             </div>
         </div>
       </div>
@@ -14,7 +14,7 @@
         <div class="card">
            <div class="card-body">
              <h5 class="card-title fs-4">🛠️ Projetos</h5>
-             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+             <p class="card-text">Aplicar os conhecimentos estudados na Liga em cenários próprios ou criados para outros membros. 📊💻</p>
             </div>
         </div>
       </div>
@@ -22,7 +22,7 @@
         <div class="card">
            <div class="card-body">
              <h5 class="card-title fs-4">📚 Training</h5>
-             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+             <p class="card-text">Auxiliar os membros da Liga no estudo das ferramentas de ciência de dados, com capacitações e apostilas. 🍎✏️</p>
             </div>
         </div>
       </div>
@@ -30,7 +30,7 @@
         <div class="card">
            <div class="card-body">
              <h5 class="card-title fs-4">🤝 Recursos Humanos</h5>
-             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+             <p class="card-text">Garantir o relacionamento harmônico das áreas e membros (além de organizar umas integrações às vezes 🎉).</p>
             </div>
         </div>
       </div>

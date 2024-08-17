@@ -17,6 +17,9 @@
             <a class="nav-link" href="#Áreas">Áreas</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="#Materiais">Materiais</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="#Projetos">Projetos</a>
           </li>
           <li class="nav-item">

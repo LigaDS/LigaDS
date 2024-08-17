@@ -4,7 +4,7 @@
       <img src="../assets/todos.svg" class="headline-logo">
     </div>
     <div class="headline-text-container">
-      <p class="p-2">Somos a primeira Liga da Unicamp Limeira totalmente voltada ao estudo da ciência de dados e programação.</p>
+      <p class="p-2">Somos a primeira Liga da UNICAMP Limeira totalmente voltada ao estudo da ciência de dados e programação.</p>
     </div>
   </div>
 </template>

@@ -10,6 +10,7 @@
         <a href="mailto:ligadsunicamplimeira@gmail.com" class="contact-pressable"><i class="bi bi-envelope-at-fill"></i></a>
         <a href="https://www.linkedin.com/company/liga-de-data-science/about/" class="contact-pressable"><i class="bi bi-linkedin"></i></a>
         <a href="https://github.com/LigaDS" class="contact-pressable"><i class="bi bi-github"></i></a>
+        <a href="https://www.youtube.com/@ligadedatascienceunicamp2953" class="contact-pressable"><i class="bi bi-youtube"></i></a>
         <a href="https://www.instagram.com/ligadsunicamp/" class="contact-pressable"><i class="bi bi-instagram"></i></a>
       </div>
     </div>

@@ -5,6 +5,7 @@
   import Sectors from './components/Sectors.vue';
   import Projects from './components/Projects.vue';
   import Contact from './components/Contact.vue';
+  import Resources from './components/Resources.vue';
 </script>
 
 <template>
@@ -16,6 +17,7 @@
     <Headline/>
     <History/>
     <Sectors/>
+    <Resources/>
     <Projects/>
   </main>
 
