@@ -7,11 +7,10 @@
     <div class="d-flex flex-column contact-container">
       <h1 id="Contato" class="fs-3 members-header-title">Contato</h1>
       <div class="d-flex justify-content-center">
-        <a href="#" class="contact-pressable"><i class="bi bi-envelope-at-fill"></i></a>
-        <a href="#" class="contact-pressable"><i class="bi bi-whatsapp"></i></a>
-        <a href="#" class="contact-pressable"><i class="bi bi-github"></i></a>
-        <a href="#" class="contact-pressable"><i class="bi bi-instagram"></i></a>
-        <a href="#" class="contact-pressable"><i class="bi bi-tiktok"></i></a>
+        <a href="mailto:ligadsunicamplimeira@gmail.com" class="contact-pressable"><i class="bi bi-envelope-at-fill"></i></a>
+        <a href="https://www.linkedin.com/company/liga-de-data-science/about/" class="contact-pressable"><i class="bi bi-linkedin"></i></a>
+        <a href="https://github.com/LigaDS" class="contact-pressable"><i class="bi bi-github"></i></a>
+        <a href="https://www.instagram.com/ligadsunicamp/" class="contact-pressable"><i class="bi bi-instagram"></i></a>
       </div>
     </div>
   </div>

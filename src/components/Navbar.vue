@@ -3,7 +3,7 @@
   <nav class="navbar navbar-expand-md" data-bs-theme="light">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">
-        <Logo class="navbar-logo" color="#00a4aa" size="3em" strokeWidth="4"/>
+        <img src="../assets/ligadslogofull.svg" class="logo">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -48,6 +48,9 @@
 
   .nav-link:focus {
     color: darkcyan;
+  }
+  .logo {
+    height: 4rem;
   }
 </style>
 

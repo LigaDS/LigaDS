@@ -5,7 +5,7 @@
     </div>
     <div class="history-text-container">
       <h1 class="fs-1">História</h1>
-      <p class="p-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer leo ligula, vulputate nec eleifend ut, viverra ut dui. Maecenas vestibulum blandit viverra. Integer vehicula mauris urna, rutrum aliquam purus rhoncus eu. Donec faucibus ipsum ac faucibus varius. Donec eget iaculis ipsum, vitae fringilla augue.</p>
+      <p class="p-2">A ideia para o projeto da Liga Data Science surgiu em 2020, com a necessidade de graduandos em engenharia de aprender programação. As primeiras atividades começaram em 2022, quando foi formado o primeiro grupo de estudos e iniciado o primeiro projeto, baseado no banco de dados do INMET.</p>
     </div>
   </div>
 </template>
@@ -16,6 +16,7 @@
   flex-wrap: wrap;
   margin: 0;
   max-height: 24rem;
+  
 }
 
 .history-picture-container {

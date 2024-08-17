@@ -1,5 +1,5 @@
 <template>
-  <div class="d-inline-flex p-2 tagbox rounded-pill justify-content-center align-items-center" :style="{ backgroundColor: tagColor }">
+  <div class="d-inline-flex p-2 m-1 tagbox rounded-pill justify-content-center align-items-center" :style="{ backgroundColor: tagColor }">
     <ion-icon :name="icon" :style="{ color: iconColor }" class="icon"></ion-icon>
     <p class="fs-6 mx-2 mb-0 label" :style="{ color: textColor }">{{ label }}</p>
   </div>
@@ -8,14 +8,6 @@
 <style scoped>
 .icon {
   font-size: 20pt;
-}
-.tagbox {
-  margin-left: 0 2vw;
-}
-@media (max-width: 768px) {
-  .tagbox {
-    margin: 1vw;
-  }
 }
 </style>
 
