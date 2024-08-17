@@ -4,6 +4,9 @@ import FootballTag from './tags/FootballTag.vue';
 import IndustryTag from './tags/IndustryTag.vue';
 import PandasTag from './tags/PandasTag.vue';
 import PythonTag from './tags/PythonTag.vue';
+import MiniTag from './tags/MiniTag.vue';
+import HealthTag from './tags/HealthTag.vue';
+import EducationTag from './tags/EducationTag.vue';
 </script>
 
 <template>
@@ -18,7 +21,7 @@ import PythonTag from './tags/PythonTag.vue';
               <li>A <mark>média de idade</mark> do elenco precisa ser <mark>superior a 28 anos</mark>, trazendo a experiência necessária para evitar o rebaixamento.</li>
               <li>Além disso, para manter o equilíbrio financeiro, <mark>a diferença entre o jogador mais caro e o mais barato do time não deve ultrapassar 25 milhões.</mark></li>
             </ul>
-            <div class="d-lg-flex py-3">
+            <div class="container py-3">
               <FootballTag/>
               <PythonTag/>
               <PandasTag/>
@@ -34,7 +37,7 @@ import PythonTag from './tags/PythonTag.vue';
             <li>Além disso, o clube aposta em renovação, estipulando que a <mark>média de idade do time deve ser inferior a 26 anos</mark>, garantindo potencial de evolução.</li>
             <li>Outra restrição importante é <mark>evitar a presença de jogadores de nacionalidades rivais</mark>, como Brasil e Argentina ou Inglaterra e Alemanha, para assegurar harmonia no vestiário.</li>
           </ul>
-          <div class="d-lg-flex py-3">
+          <div class="container py-3">
               <FootballTag/>
               <PythonTag/>
               <PandasTag/>
@@ -50,7 +53,7 @@ import PythonTag from './tags/PythonTag.vue';
             <li>Além disso, o clube pretende garantir competitividade para se qualificar para competições europeias, exigindo que <mark>ao menos dois jogadores sejam ex-estrelas do futebol</mark>, trazendo experiência e impacto imediato.</li>
             <li>Por fim, <mark>uma jovem promessa (abaixo de 24 anos) deve fazer parte do elenco, estando entre os três jogadores de maior valor</mark>, preparando o clube para o futuro.</li>
           </ul>
-          <div class="d-lg-flex py-3">
+          <div class="container py-3">
             <FootballTag/>
             <PythonTag/>
             <PandasTag/>
@@ -66,8 +69,32 @@ import PythonTag from './tags/PythonTag.vue';
             <li>Garantir que a <mark>demanda seja atendida sem exceder a capacidade</mark> produtiva.</li>
             <li><mark>Minimizar os custos</mark> associados à produçao textil da fábrica.</li>
           </ul>
-          <div class="d-lg-flex py-3">
+          <div class="container py-3">
             <IndustryTag/>
+            <PythonTag/>
+            <PandasTag/>
+          </div>
+        </Card>
+      </div>
+
+      <div class="col">
+        <Card source="books.png" title="Performance dos Estudantes" description="Este projeto foca na análise de dados relacionados ao desempenho acadêmico dos alunos, explorando uma série de variáveis que vão desde informações pessoais e familiares até o estilo de vida e o histórico escolar.">
+          <p>Utilizando a linguagem Python e suas bibliotecas de análise de dados, o projeto visa <mark>construir um modelo computacional</mark> que ajude a compreender como variáveis como a profissão dos pais, nível de instrução e ambiente familiar <mark>influenciam o desempenho acadêmico</mark>, com o objetivo de gerar <mark>insights valiosos para políticas educacionais</mark> e intervenções personalizadas.</p>
+          <div class="container py-3">
+            <EducationTag/>
+            <MiniTag/>
+            <PythonTag/>
+            <PandasTag/>
+          </div>
+        </Card>
+      </div>
+
+      <div class="col">
+        <Card source="sono.png" title="Qualidade do Sono" description="É analisado de um banco de dados focado na saúde do sono, considerando fatores culturais, sociais, psicológicos, comportamentais, fisiopatológicos e ambientais que afetam o sono de uma pessoa.">
+          <p>O objetivo é <mark>extrair insights</mark> a partir de variáveis subjetivas, e <mark>relacionar fatores como "Qualidade do sono" e "Nível de estresse"</mark> com outros fatores através de correlações e gráficos. A análise <mark>visa fornecer informações confiáveis</mark> e relacionamentos claros entre essas variáveis.</p>
+          <div class="container py-3">
+            <HealthTag/>
+            <MiniTag/>
             <PythonTag/>
             <PandasTag/>
           </div>
