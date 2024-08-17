@@ -4,7 +4,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'https://ligads.github.io/ligads', // Set the base to root
+  base: 'https://ligads.github.io/', // Set the base to root
   server: {
     host: true
   },
