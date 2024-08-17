@@ -57,5 +57,9 @@
     overflow: hidden;
     max-height: 20rem;
   }
+
+  .history-text-container {
+    text-align: center;
+  }
 }
 </style>
