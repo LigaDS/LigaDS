@@ -55,6 +55,11 @@
   .logo {
     height: 4rem;
   }
+  @media (max-width: 768px) {
+    .logo {
+      height: 3rem;
+    }
+  }
 </style>
 
 <script>

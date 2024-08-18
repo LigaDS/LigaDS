@@ -52,13 +52,14 @@
   .headline-body {
     flex-direction: column;
     height: auto;
+    font-size: 20vw;
     text-align: center;
     padding: 6vh 0 2vh 0;
   }
 
   .headline-logo-container {
     margin-top: 2vh;
-    padding-bottom: 4vh;
+    padding-bottom: 0;
   }
 
   .headline-text-container {
