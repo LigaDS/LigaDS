@@ -64,7 +64,7 @@
 
   .headline-text-container {
     text-align: center;
-    padding: 2em 2em 1em 2em;
+    padding: 2rem 1rem;
   }
 }
 </style>
